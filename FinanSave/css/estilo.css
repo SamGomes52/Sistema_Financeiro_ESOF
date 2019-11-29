@@ -1,0 +1,47 @@
+/*Só para lembrar, coloquei isso porque o background da página de cadastro estava dando erro*/
+html {
+    height: 100%;
+}
+
+.cor-navbar {
+    background: #FB404B;
+}
+
+.cor-fundo {
+    background-image: linear-gradient(to top, rgb(255, 175, 180), #FB404B 90%);
+    color: white;
+}
+
+nav a span {
+    color: #7cc6cf;
+}
+
+#home {
+    background-image: linear-gradient(to top, rgb(255, 183, 188), #FB404B);
+    color: white;
+}
+
+.caixa {
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+.cor-icone {
+    fill: #FB404B;
+}
+
+.espacamento-botoes {
+    margin: 50px 0px;
+}
+
+.cor-receita {
+    color: rgb(83, 194, 49);
+}
+
+.cor-despesa {
+    color: #FB404B;
+}
